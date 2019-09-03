@@ -1,0 +1,31 @@
+{
+  "sessionInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "sessionMechanism" : "sessionMechanism",
+    "servicingFacilityType" : "servicingFacilityType",
+    "customerContactReference" : "764445",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "744075",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "servicingFacilityInstanceRecord" : {}
+  },
+  "sessionRetrieveActionTaskReference" : "SRATR770957",
+  "sessionRetrieveActionTaskRecord" : {},
+  "sessionInstanceReport" : {
+    "sessionInstanceReportParameters" : "sessionInstanceReportParameters",
+    "sessionInstanceReport" : {},
+    "sessionInstanceReportType" : "sessionInstanceReportType",
+    "sessionInstanceReportRecord" : {}
+  },
+  "sessionInstanceAnalysis" : {
+    "sessionInstanceAnalysisReport" : {},
+    "sessionInstanceAnalysisReportType" : "sessionInstanceAnalysisReportType",
+    "sessionInstanceAnalysisRecord" : {},
+    "sessionInstanceAnalysisParameters" : "sessionInstanceAnalysisParameters"
+  },
+  "sessionRetrieveActionResponse" : "sessionRetrieveActionResponse"
+}

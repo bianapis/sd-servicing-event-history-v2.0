@@ -1,0 +1,14 @@
+{
+  "issueInstanceRecord" : {
+    "employeeBusinessUnitReference" : "769185",
+    "productionIssueType" : "productionIssueType",
+    "servicingPositionReference" : "779558",
+    "productionIssueResolutionTask" : "productionIssueResolutionTask",
+    "productionIssueDiagnosis" : "productionIssueDiagnosis",
+    "productionIssueDescription" : "productionIssueDescription",
+    "servicingPositionSessionReference" : "784279"
+  },
+  "issueUpdateActionTaskReference" : "IUATR742127",
+  "updateResponseRecord" : {},
+  "issueUpdateActionTaskRecord" : {}
+}

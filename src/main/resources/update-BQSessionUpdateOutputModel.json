@@ -1,0 +1,19 @@
+{
+  "sessionUpdateActionTaskRecord" : {},
+  "sessionInstanceRecord" : {
+    "sessionStartEndTime" : "09-22-2018",
+    "sessionMechanism" : "sessionMechanism",
+    "servicingFacilityType" : "servicingFacilityType",
+    "customerContactReference" : "728488",
+    "contactDialogueRecord" : {
+      "contactDialogueScript" : "contactDialogueScript",
+      "contactDialogueType" : "contactDialogueType",
+      "contactDialogueLog" : "contactDialogueLog",
+      "contactDialogueLogReference" : "782070",
+      "contactDialogueResult" : "contactDialogueResult"
+    },
+    "servicingFacilityInstanceRecord" : {}
+  },
+  "updateResponseRecord" : {},
+  "sessionUpdateActionTaskReference" : "SUATR715890"
+}

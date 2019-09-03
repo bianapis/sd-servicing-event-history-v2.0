@@ -1,0 +1,10 @@
+{
+  "assignmentUpdateActionTaskRecord" : {},
+  "assignmentInstanceRecord" : {
+    "dateTimeLocation" : "dateTimeLocation",
+    "servicingPositionActivityStatistics" : "servicingPositionActivityStatistics",
+    "servicingPositionActivityReport" : {}
+  },
+  "assignmentUpdateActionTaskReference" : "AUATR787738",
+  "updateResponseRecord" : {}
+}

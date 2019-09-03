@@ -1,0 +1,19 @@
+{
+  "servicingEventLogInstanceAnalysis" : {
+    "servicingEventLogInstanceAnalysisData" : "servicingEventLogInstanceAnalysisData",
+    "servicingEventLogInstanceAnalysisReport" : {},
+    "servicingEventLogInstanceAnalysisReportType" : "servicingEventLogInstanceAnalysisReportType"
+  },
+  "servicingEventLogInstanceReportRecord" : {
+    "servicingEventLogInstanceReportData" : "servicingEventLogInstanceReportData",
+    "servicingEventLogInstanceReport" : {},
+    "servicingEventLogInstanceReportType" : "servicingEventLogInstanceReportType"
+  },
+  "servicingEventLogRetrieveActionResponse" : "servicingEventLogRetrieveActionResponse",
+  "servicingEventLogRetrieveActionTaskRecord" : {},
+  "servicingEventLogInstanceRecord" : {
+    "employeeBusinessUnitReference" : "779484",
+    "servicingPositionReference" : "703882"
+  },
+  "servicingEventLogRetrieveActionTaskReference" : "SELRATR787731"
+}

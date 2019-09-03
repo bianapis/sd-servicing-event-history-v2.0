@@ -1,0 +1,26 @@
+{
+  "issueInstanceRecord" : {
+    "employeeBusinessUnitReference" : "740042",
+    "productionIssueType" : "productionIssueType",
+    "servicingPositionReference" : "734364",
+    "productionIssueResolutionTask" : "productionIssueResolutionTask",
+    "productionIssueDiagnosis" : "productionIssueDiagnosis",
+    "productionIssueDescription" : "productionIssueDescription",
+    "servicingPositionSessionReference" : "792423"
+  },
+  "issueRetrieveActionTaskReference" : "IRATR726150",
+  "issueRetrieveActionResponse" : "issueRetrieveActionResponse",
+  "issueInstanceReport" : {
+    "issueInstanceReportType" : "issueInstanceReportType",
+    "issueInstanceReportRecord" : {},
+    "issueInstanceReportParameters" : "issueInstanceReportParameters",
+    "issueInstanceReport" : {}
+  },
+  "issueInstanceAnalysis" : {
+    "issueInstanceAnalysisRecord" : {},
+    "issueInstanceAnalysisParameters" : "issueInstanceAnalysisParameters",
+    "issueInstanceAnalysisReportType" : "issueInstanceAnalysisReportType",
+    "issueInstanceAnalysisReport" : {}
+  },
+  "issueRetrieveActionTaskRecord" : {}
+}

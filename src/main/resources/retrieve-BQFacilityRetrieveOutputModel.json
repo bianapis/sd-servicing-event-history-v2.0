@@ -1,0 +1,22 @@
+{
+  "facilityRetrieveActionTaskRecord" : {},
+  "facilityInstanceAnalysis" : {
+    "facilityInstanceAnalysisReportType" : "facilityInstanceAnalysisReportType",
+    "facilityInstanceAnalysisParameters" : "facilityInstanceAnalysisParameters",
+    "facilityInstanceAnalysisRecord" : {},
+    "facilityInstanceAnalysisReport" : {}
+  },
+  "facilityRetrieveActionResponse" : "facilityRetrieveActionResponse",
+  "facilityInstanceReport" : {
+    "facilityInstanceReport" : {},
+    "facilityInstanceReportRecord" : {},
+    "facilityInstanceReportParameters" : "facilityInstanceReportParameters",
+    "facilityInstanceReportType" : "facilityInstanceReportType"
+  },
+  "facilityRetrieveActionTaskReference" : "FRATR760291",
+  "facilityInstanceRecord" : {
+    "servicingFacilityType" : "servicingFacilityType",
+    "servicingFacilityInstanceReference" : "720302",
+    "servicingFacilityInstanceRecord" : {}
+  }
+}

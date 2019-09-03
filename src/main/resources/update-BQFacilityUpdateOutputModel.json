@@ -1,0 +1,10 @@
+{
+  "updateResponseRecord" : {},
+  "facilityInstanceRecord" : {
+    "servicingFacilityType" : "servicingFacilityType",
+    "servicingFacilityInstanceReference" : "718809",
+    "servicingFacilityInstanceRecord" : {}
+  },
+  "facilityUpdateActionTaskReference" : "FUATR736152",
+  "facilityUpdateActionTaskRecord" : {}
+}

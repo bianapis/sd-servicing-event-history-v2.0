@@ -1,0 +1,22 @@
+{
+  "assignmentRetrieveActionTaskReference" : "ARATR725599",
+  "assignmentInstanceAnalysis" : {
+    "assignmentInstanceAnalysisReportType" : "assignmentInstanceAnalysisReportType",
+    "assignmentInstanceAnalysisReport" : {},
+    "assignmentInstanceAnalysisRecord" : {},
+    "assignmentInstanceAnalysisParameters" : "assignmentInstanceAnalysisParameters"
+  },
+  "assignmentInstanceRecord" : {
+    "dateTimeLocation" : "dateTimeLocation",
+    "servicingPositionActivityStatistics" : "servicingPositionActivityStatistics",
+    "servicingPositionActivityReport" : {}
+  },
+  "assignmentInstanceReport" : {
+    "assignmentInstanceReportType" : "assignmentInstanceReportType",
+    "assignmentInstanceReportParameters" : "assignmentInstanceReportParameters",
+    "assignmentInstanceReportRecord" : {},
+    "assignmentInstanceReport" : {}
+  },
+  "assignmentRetrieveActionTaskRecord" : {},
+  "assignmentRetrieveActionResponse" : "assignmentRetrieveActionResponse"
+}
